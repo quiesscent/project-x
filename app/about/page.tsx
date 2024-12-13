@@ -7,7 +7,7 @@ export default function AboutPage() {
   return (
     <div>
       <h1 className="mb-4 text-bold font-bold text-[50px]">Gallery</h1>
-      <div className="gap-1 grid grid-cols-3 sm:grid-cols-1 lg:grid-cols-3">
+      <div className="gap-1 grid grid-cols-4 sm:grid-cols-1 lg:grid-cols-3">
         <Card className="h-[300px] w-[400px]">
           <Image
             removeWrapper

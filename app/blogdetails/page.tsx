@@ -27,7 +27,6 @@ export default function BlogPage() {
           </p>
           </div>
        
-        
         <Card isFooterBlurred className="w-[900px] h-[500px] col-span-12 sm:col-span-7">
           <Image
             removeWrapper
