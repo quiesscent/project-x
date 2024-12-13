@@ -5,7 +5,7 @@ export default function BlogDetails({
 }) {
   return (
     <section className="flex">
-      <div className="inline-block text-center justify-center">
+      <div className="inline-block">
         {children}
       </div>
     </section>

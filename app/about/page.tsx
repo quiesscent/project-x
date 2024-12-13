@@ -1,5 +1,5 @@
 "use client"
-import { Card, CardHeader, CardFooter, Image, Button } from "@nextui-org/react";
+import { Card, Image } from "@nextui-org/react";
 
 import { title } from "@/components/primitives";
 
