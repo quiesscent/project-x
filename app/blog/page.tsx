@@ -1,5 +1,6 @@
 "use client";
 import { Card, CardFooter, CardBody, Image } from "@nextui-org/react";
+import { Button, ButtonGroup } from "@nextui-org/button";
 export default function BlogPage() {
   return (
     <div>
@@ -23,6 +24,8 @@ export default function BlogPage() {
             <p className="text-start mt-4">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, voluptates expedita. Ratione mollitia quia totam beatae dolores suscipit deserunt possimus, nam quos iste quidem quod atque inventore quas accusamus qui!
             </p>
+
+            <Button radius="md" className="mx-5 mt-5">Read More</Button>
           </CardBody>
         </Card>
 
@@ -42,6 +45,7 @@ export default function BlogPage() {
             <p className="text-start mt-4">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, voluptates expedita. Ratione mollitia quia totam beatae dolores suscipit deserunt possimus, nam quos iste quidem quod atque inventore quas accusamus qui!
             </p>
+            <Button radius="md" className="mx-5 mt-5">Read More</Button>
           </CardBody>
         </Card>
 
@@ -61,6 +65,7 @@ export default function BlogPage() {
             <p className="text-start mt-4">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, voluptates expedita. Ratione mollitia quia totam beatae dolores suscipit deserunt possimus, nam quos iste quidem quod atque inventore quas accusamus qui!
             </p>
+            <Button radius="md" className="mx-5 mt-5">Read More</Button>
           </CardBody>
         </Card>
 
@@ -80,6 +85,7 @@ export default function BlogPage() {
             <p className="text-start mt-4">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, voluptates expedita. Ratione mollitia quia totam beatae dolores suscipit deserunt possimus, nam quos iste quidem quod atque inventore quas accusamus qui!
             </p>
+            <Button radius="md" className="mx-5 mt-5">Read More</Button>
           </CardBody>
         </Card>
 
